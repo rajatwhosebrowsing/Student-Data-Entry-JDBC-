@@ -4,7 +4,7 @@ import java.util.List;
 
 // Data Access Object: all DB operations are here
 public class StudentDAO {
-
+ 
     // Add a new student record
     public void insertStudent(Student s) {
         final String SQL = "INSERT INTO students "
