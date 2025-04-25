@@ -5,7 +5,7 @@ public class Student {
     private java.sql.Date dob;
     private int[] marks;  // stores three subject marks
 
-    // Constructor
+    // Constructor 
     public Student(int prn, String name, java.sql.Date dob, int[] marks) {
         this.prn   = prn;
         this.name  = name;
