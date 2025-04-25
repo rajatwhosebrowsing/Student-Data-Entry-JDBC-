@@ -110,9 +110,9 @@ Copy
 Edit
 java Main
 📌 Author
-Name: Nimit Prakash
+Name: Rajat Dwivedi
 
-PRN: 23070126082
+PRN: 23070126100
 
 Batch: B1
 
